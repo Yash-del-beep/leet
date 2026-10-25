@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Yash-del-beep/leet/tree/master/0078-subsets) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Yash-del-beep/leet/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
