@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Yash-del-beep/leet/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Yash-del-beep/leet/tree/master/0078-subsets) |
+| [0174-dungeon-game](https://github.com/Yash-del-beep/leet/tree/master/0174-dungeon-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Yash-del-beep/leet/tree/master/0100-same-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/Yash-del-beep/leet/tree/master/0174-dungeon-game) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/Yash-del-beep/leet/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
