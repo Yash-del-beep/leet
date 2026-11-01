@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yash-del-beep/leet/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Yash-del-beep/leet/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Yash-del-beep/leet/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yash-del-beep/leet/tree/master/0070-climbing-stairs) |
 | [0174-dungeon-game](https://github.com/Yash-del-beep/leet/tree/master/0174-dungeon-game) |
 ## Matrix
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yash-del-beep/leet/tree/master/0088-merge-sorted-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Yash-del-beep/leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
