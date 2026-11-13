@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yash-del-beep/leet/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Yash-del-beep/leet/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Yash-del-beep/leet/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yash-del-beep/leet/tree/master/0070-climbing-stairs) |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Yash-del-beep/leet/tree/master/0190-reverse-bits) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yash-del-beep/leet/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yash-del-beep/leet/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
