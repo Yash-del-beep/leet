@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Yash-del-beep/leet/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Yash-del-beep/leet/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/Yash-del-beep/leet/tree/master/0174-dungeon-game) |
+| [1029-two-city-scheduling](https://github.com/Yash-del-beep/leet/tree/master/1029-two-city-scheduling) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yash-del-beep/leet/tree/master/0088-merge-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Yash-del-beep/leet/tree/master/1029-two-city-scheduling) |
 ## Memoization
 |  |
 | ------- |
@@ -116,4 +118,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Yash-del-beep/leet/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Yash-del-beep/leet/tree/master/1029-two-city-scheduling) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Yash-del-beep/leet/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Yash-del-beep/leet/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
