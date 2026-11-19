@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Yash-del-beep/leet/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Yash-del-beep/leet/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Yash-del-beep/leet/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Yash-del-beep/leet/tree/master/0078-subsets) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Yash-del-beep/leet/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Yash-del-beep/leet/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
