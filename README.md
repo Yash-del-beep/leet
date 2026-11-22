@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Yash-del-beep/leet/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Yash-del-beep/leet/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/Yash-del-beep/leet/tree/master/0174-dungeon-game) |
+| [0238-product-of-array-except-self](https://github.com/Yash-del-beep/leet/tree/master/0238-product-of-array-except-self) |
 | [1029-two-city-scheduling](https://github.com/Yash-del-beep/leet/tree/master/1029-two-city-scheduling) |
 ## Backtracking
 |  |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Yash-del-beep/leet/tree/master/1029-two-city-scheduling) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Yash-del-beep/leet/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
