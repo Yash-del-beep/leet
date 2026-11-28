@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash-del-beep/leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yash-del-beep/leet/tree/master/0100-same-tree) |
+| [0514-freedom-trail](https://github.com/Yash-del-beep/leet/tree/master/0514-freedom-trail) |
 ## Binary Tree
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Yash-del-beep/leet/tree/master/0038-count-and-say) |
 | [0087-scramble-string](https://github.com/Yash-del-beep/leet/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Yash-del-beep/leet/tree/master/0115-distinct-subsequences) |
+| [0514-freedom-trail](https://github.com/Yash-del-beep/leet/tree/master/0514-freedom-trail) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Yash-del-beep/leet/tree/master/0100-same-tree) |
+| [0514-freedom-trail](https://github.com/Yash-del-beep/leet/tree/master/0514-freedom-trail) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Yash-del-beep/leet/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Yash-del-beep/leet/tree/master/0115-distinct-subsequences) |
 | [0174-dungeon-game](https://github.com/Yash-del-beep/leet/tree/master/0174-dungeon-game) |
+| [0514-freedom-trail](https://github.com/Yash-del-beep/leet/tree/master/0514-freedom-trail) |
 ## Matrix
 |  |
 | ------- |
